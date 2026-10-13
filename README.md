@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreejan-18/sec/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/shreejan-18/sec/tree/master/0067-add-binary) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shreejan-18/sec/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreejan-18/sec/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shreejan-18/sec/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreejan-18/sec/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreejan-18/sec/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
